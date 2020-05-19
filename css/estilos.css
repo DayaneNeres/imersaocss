@@ -1,0 +1,40 @@
+body {
+    background-image: url('https://ae01.alicdn.com/kf/HTB1m6fQQFXXXXaeXFXXq6xXFXXXQ/Huayi-photoshoot-fundo-do-vintage-fundo-de-c-u-nublado-fotografia-fundo-azul-xt-4011.jpg');
+    background-size: auto 50vh;
+    font-family: Arial;
+    height: 100;
+} 
+
+.menu {
+    background-color: aliceblue;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
+    list-style: none;
+}
+
+a {
+    color: teal;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+    color: whitesmoke;
+    text-align: center;
+}
+
+.site-subtitle {
+    font-style: italic;
+}
+
+
